@@ -1,5 +1,3 @@
-Hello world!
-
 Name's Dmitrii.<br>
 I'm interested in making life esier with technology.<br>
 Right now I'm learning backend stuff like Python / django / Bash.<br><br>
