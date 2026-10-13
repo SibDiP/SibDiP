@@ -55,7 +55,7 @@
 
 ## GitHub
 
-![Dmitrii's GitHub stats](https://github-readme-stats.vercel.app/api?username=SibDiP&show_icons=true&hide_border=true&exclude_repo=ml_learning_course)
+![Dmitrii's GitHub stats](https://github-readme-stats.vercel.app/api?username=SibDiP&show_icons=true&hide_border=true&hide_rank=true&exclude_repo=ml_learning_course)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SibDiP&layout=compact&hide_border=true&exclude_repo=ml_learning_course)
 
 ---
