@@ -2,7 +2,7 @@
 
 # Dmitrii Pivnev
 
-### Junior Python Developer · Backend
+### Python Developer · Backend
 
 Пишу бэкенд на Python: веб-сервисы, асинхронных Telegram-ботов и инструменты автоматизации.
 
