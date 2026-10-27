@@ -54,8 +54,6 @@ I build backends in Python: web services, async Telegram bots and automation too
 
 ---
 
-<sub>Python · Django · FastAPI · aiogram — open to internships and junior roles.</sub>
-
 <details>
 <summary>Русская версия</summary>
 
